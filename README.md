@@ -1,4 +1,4 @@
-# 🏔️ [Ushuaia - Landing Page](https://uelintonhj.github.io/ushuaia-site/)
+# 🏔️ [Ushuaia - Landing Page](https://ushuaia-landing-page.vercel.app/)
 
 Landing page construída com foco em **HTML**, **CSS** e **Bootstrap 5**, apresentando uma interface limpa, responsiva e organizada.
 O objetivo do projeto é praticar estruturação visual usando componentes do Bootstrap e boas práticas de layout moderno.
